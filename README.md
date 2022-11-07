@@ -16,3 +16,11 @@ share your opinion on where should the company be focused.
 <li>Train the model and predict with test data.</li>
 <li>Find MAE, MSE, RMSE.</li>
 </ol>
+
+<h4>Installation and Setup</h4>
+<ul>
+<li> Create a virtural Environment <a href=https://gist.github.com/azadranjith/3a19a2df49bdfe5a1b85ecef1b060113.js>Setup virtual env</li>
+<li>Do pip install -r requirements.txt </li>
+<li>Clone this repository</li>
+
+</ul>
